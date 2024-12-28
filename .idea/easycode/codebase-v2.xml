@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/Enums/TyeOfExpense.py;E:/My Prjects/ExpenseTracker/migrations/versions/4bd522145653_added_indexes_in_the_expense_table.py;E:/My Prjects/ExpenseTracker/migrations/versions/e144f83f1b45_initial_migration.py;E:/My Prjects/ExpenseTracker/migrations/versions/f5f4489683ea_added_date_column_to_the_expense_table.py;E:/My Prjects/ExpenseTracker/migrations/env.py;E:/My Prjects/ExpenseTracker/models/__init__.py;E:/My Prjects/ExpenseTracker/models/Expense.py;E:/My Prjects/ExpenseTracker/RestClasses/ExpenseApi.py;E:/My Prjects/ExpenseTracker/app.py;E:/My Prjects/ExpenseTracker/config.py;E:/My Prjects/ExpenseTracker/Practise.ts" />
+  </component>
+</project>
